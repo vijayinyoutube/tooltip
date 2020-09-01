@@ -32,6 +32,10 @@ decoration    : <Decoration>
 
 <img src="https://user-images.githubusercontent.com/58719230/91797819-253cea80-ec41-11ea-97ab-85a5f25abe4d.png" width="300" height="450"> <img src="https://user-images.githubusercontent.com/58719230/91797835-2e2dbc00-ec41-11ea-99ef-03d1ea4ac22d.png" width="300" height="450">
 
+## Quick Look
+
+<img src="https://user-images.githubusercontent.com/58719230/91798186-f6734400-ec41-11ea-97fa-02715c05f6c3.png">
+
 ## License
 
 ```
