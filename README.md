@@ -11,7 +11,7 @@ A simple example to demonstrate the usage of tooltip widget in Flutter
 
 This app make use  of ```Tooltip``` widget for demonstration.
 
-## Parameteres
+## Parameters
 
 ```
 message       : <String>
