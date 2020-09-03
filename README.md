@@ -11,6 +11,8 @@ A simple example to demonstrate the usage of tooltip widget in Flutter
 
 This app make use  of ```Tooltip``` widget for demonstration.
 
+Visit my channel to know more about Flutter : https://www.youtube.com/channel/UCBC_Z7jla1GSITcqLKAtPxQ
+
 ## Parameters
 
 ```
